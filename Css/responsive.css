@@ -1,0 +1,193 @@
+@media screen and (min-width: 360px) and (max-width:800px){
+    .content, .info h1{
+        
+        padding-top: 30%;
+        color: blue;
+        font-size: 18px;
+    
+    }
+    .foot{
+        width: 100%;
+        height: 90px;
+        color: white;
+        font-size: 20px;
+        background-color: brown;
+    }
+    .footer{
+        margin-top: 150px;
+    }
+    
+}
+
+@media screen and (min-width:320px) and (max-width:569px){
+    .content, .info h1{
+        padding-top: 30%;
+        color: blue;
+        font-size: 18px;
+    
+    }
+
+    .foot{
+        width: 100%;
+        height: 90px;
+        color: white;
+        font-size: 20px;
+        background-color: brown;
+       
+    }
+    .footer{
+        margin-top: -20px;
+    } 
+    
+}
+
+@media screen and (min-width:800px) and (max-width:1199px){
+    .content, .info h1{
+        padding-top: 30%;
+        color: blue;
+        font-size: 18px;
+    
+    }
+
+    .foot{
+        width: 100%;
+        height: 90px;
+        color: white;
+        font-size: 20px;
+        background-color: brown;
+       
+    }
+    .footer{
+        margin-top: 300px;
+    } 
+    
+}
+
+
+
+
+
+@media screen and (min-width:360px) and (max-width:800px){
+    .content, .info h1{
+        padding-top: 30%;
+        color: blue;
+        font-size: 18px;
+    
+    }
+
+    .foot{
+        width: 100%;
+        height: 90px;
+        color: white;
+        font-size: 20px;
+        background-color: brown;
+       
+    }
+    .footer{
+        margin-top: 300px;
+    } 
+    
+}
+
+
+@media screen and (min-width:412px) and (max-width:914px){
+    .content, .info h1{
+        padding-top: 30%;
+        color: blue;
+        font-size: 18px;
+    
+    }
+
+    .foot{
+        width: 100%;
+        height: 90px;
+        color: white;
+        font-size: 20px;
+        background-color: brown;
+       
+    }
+    .footer{
+        margin-top: 200px;
+    } 
+    
+}
+
+
+@media screen and (min-width:414px) and (max-width:897px){
+    .content, .info h1{
+        padding-top: 30%;
+        color: blue;
+        font-size: 18px;
+    
+    }
+
+    .foot{
+        width: 100%;
+        height: 90px;
+        color: white;
+        font-size: 20px;
+        background-color: brown;
+       
+    }
+    .footer{
+        margin-top: 130px;
+    } 
+    
+}
+
+@media screen and (min-width:375px) and (max-width:812px){
+    .content, .info h1{
+        padding-top: 30%;
+        color: blue;
+        font-size: 18px;
+    
+    }
+
+    .foot{
+        width: 100%;
+        height: 90px;
+        color: white;
+        font-size: 20px;
+        background-color: brown;
+       
+    }
+    .footer{
+        margin-top: 93px;
+    } 
+    
+}
+
+
+
+@media screen and (min-width:360px) and (max-width:780px){
+    .content, .info h1{
+        padding-top: 30%;
+        color: blue;
+        font-size: 18px;
+    
+    }
+
+    .foot{
+        width: 100%;
+        height: 90px;
+        color: white;
+        font-size: 20px;
+        background-color: brown;
+       
+    }
+    .footer{
+        margin-top: 70px;
+    } 
+    
+}
+
+
+
+
+
+
+
+
+
+
+
